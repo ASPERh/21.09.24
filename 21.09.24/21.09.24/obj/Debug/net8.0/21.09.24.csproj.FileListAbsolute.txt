@@ -1,0 +1,14 @@
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\bin\Debug\net8.0\21.09.24.exe
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\bin\Debug\net8.0\21.09.24.deps.json
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\bin\Debug\net8.0\21.09.24.runtimeconfig.json
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\bin\Debug\net8.0\21.09.24.dll
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\bin\Debug\net8.0\21.09.24.pdb
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.AssemblyInfoInputs.cache
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.AssemblyInfo.cs
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.csproj.CoreCompileInputs.cache
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.dll
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\refint\21.09.24.dll
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.pdb
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\21.09.24.genruntimeconfig.cache
+C:\Users\ASPER\source\repos\21.09.24\21.09.24\obj\Debug\net8.0\ref\21.09.24.dll
